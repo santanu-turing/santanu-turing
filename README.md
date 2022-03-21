@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santanu-turing
+- 👋 Hi, I’m Santanu Karmakar
 - 👀 I’m interested in Ruby, Rails, React, Golang, AWS
 - 🌱 I’m currently learning Golang, AWS
 - 💞️ I’m looking to collaborate on multiple projects
